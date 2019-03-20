@@ -1,0 +1,3 @@
+Conventional methods for deleting data permanently from a storage device involve overwriting its whole content with zeros, ones or other patterns – a process which can take a significant amount of time, depending on the capacity and the type of the medium. Cryptography offers a way of making the erasure almost instantaneous. This method is called crypto-shredding. An example implementation of this method can be found on iOS devices, where the cryptographic key is kept in a dedicated 'Effaceable Storage'.[22] Because the key is stored on the same device, this setup on its own does not offer full confidentiality protection in case an unauthorised person gains physical access to the device.
+
+
